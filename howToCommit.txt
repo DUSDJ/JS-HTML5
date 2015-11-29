@@ -1,0 +1,9 @@
+from http://uiandwe.tistory.com/815
+
+1.$ git add --all  명령어로 모든 파일들을 명시해 줍니다.
+
+2.$ git commit -m 'first commit test_node'
+
+(3.)$ git remote add origin  사이트주소(github의 저장소 주소)
+
+4.$ git push -u origin master 
